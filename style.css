@@ -1,0 +1,192 @@
+@charset "UTF-8";
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+body{
+    background-color: rgb(243, 243,243);
+
+}
+
+header{
+    background-color: rgb(197, 197, 197);
+    border-radius: 7px 7px 0px 0px;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+
+nav{
+    background-color: rgb(197, 197, 197);
+    border-radius: 0px 0px 7px 7px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 10px;
+
+}
+
+.digital a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.digital > a:hover{
+    background-color: gray;
+    border-radius: 0px 0px 7px 0px;
+}
+
+.git  a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.git > a:hover{
+    background-color: gray;
+    border-radius: 0px 0px 7px 0px;
+}
+
+.txt{
+    background-color: rgb(197, 197, 197);
+    border-radius: 7px 7px 0px 0px;
+    text-align: center;
+    margin-top: -3px;
+}
+
+.html{
+    background-color: rgb(197, 197, 197);
+    border-radius: 0px 0px 7px 7px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+.certif{
+    background-color: rgb(197, 197, 197);
+    border-radius: 7px 7px 0px 0px;
+    margin-top: -15px;
+    text-align: center;
+}
+
+.lista{
+    background-color: rgb(197, 197, 197);
+    border-radius: 0px 0px 7px 7px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+
+.plataform a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plataform > a:hover{
+    background-color: gray;
+    border-radius: 0px 0px 7px 0px;
+}
+
+
+.css a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.css > a:hover{
+    background-color: gray;
+    border-radius: 0px 0px 7px 0px;
+}
+
+.git  a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.git > a:hover{
+    background-color: gray;
+    border-radius: 0px 0px 7px 0px;
+}
+
+
+.logica a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logica > a:hover{
+    background-color: gray;
+    border-radius: 0px 0px 7px 0px;
+}
+
+.instagram a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.instagram > a:hover{
+    background-color: gray;
+    border-radius: 0px 0px 7px 0px;
+}
+
+.js a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.js >a:hover{
+    background-color: gray;
+    border-radius: 0px 0px 7px 0px;
+}
+
+footer{
+    background-color: rgb(197, 197, 197);
+    border-radius: 7px 7px 0px 0px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div > img{
+    margin-top: -10px;
+    width: 80%;
+}
